@@ -1,0 +1,2 @@
+# practice_rails_blog
+rails勉強会用の環境構築資料
