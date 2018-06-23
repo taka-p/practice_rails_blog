@@ -5,14 +5,14 @@
 [Railsを始めたばかりの人向け！Railsの仕組みを一から理解しながらブログを作成する](http://ruby-rails.hatenadiary.com/entry/20140813/1407915718)
 
 ## 手順
-Ruby on Rails最新版とRubyをインストールします。
+Ruby on Rails最新版とRubyをインストールします。  
 Railsは2018/6/23時点で version `5.2.0` が最新版のため、こちらを利用します。
 
-githubのrailsリポジトリを参照↓
-https://github.com/rails/rails/releases
+githubのrailsリポジトリを参照↓  
+https://github.com/rails/rails/releases  
 `.rc .beta` とついていないものが、バグがない安定したversion(Stable)です。
 
-Rails5では、Ruby 2.2.2 以降が必要になりますが、今回は現時点で最新安定板の `2.5.1` を利用します。
+Rails5では、Ruby 2.2.2 以降が必要になりますが、今回は現時点で最新安定板の `2.5.1` を利用します。  
 https://www.ruby-lang.org/en/downloads/releases/
 
 **実行環境**
@@ -88,6 +88,6 @@ $ bundle install --path=vendor/bundle
 
 [Railsを始めたばかりの人向け！Railsの仕組みを一から理解しながらブログを作成する](http://ruby-rails.hatenadiary.com/entry/20140813/1407915718)
 
-`scaffold` コマンドという、モデル・ビュー・コントローラを一括で作成してくれるコマンドも存在しますが、今回は学習のために `generate` コマンドで進めます。
+`scaffold` コマンドという、モデル・ビュー・コントローラを一括で作成してくれるコマンドも存在しますが、今回は学習のために `generate` コマンドで進めます。  
 [覚えておくと超便利！Ruby on Railsのscaffoldの使い方【初心者向け】](https://techacademy.jp/magazine/7204)
 
